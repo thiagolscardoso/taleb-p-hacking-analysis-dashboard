@@ -22,7 +22,7 @@ O objetivo é **tornar palpável** o que Taleb chama de *“pay-off from search�
 | Ambiente | URL |
 |----------|-----|
 | **Oficial (Streamlit Cloud)** | [`https://taleb-p-hacking-analysis-dashboard.streamlit.app/`](https://taleb-p-hacking-analysis-dashboard.streamlit.app/) |
-| **Execução local** | `streamlit run app.py` |
+| **Execução local** | `streamlit run taleb-p-hacking-analysis-dashboard.py` |
 
 ---
 
