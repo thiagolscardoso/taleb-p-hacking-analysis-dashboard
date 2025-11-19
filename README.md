@@ -34,4 +34,4 @@ cd p-hacking-simulador
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run taleb-p-hacking-analysis-dashboard.py
